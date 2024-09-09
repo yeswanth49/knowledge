@@ -1,0 +1,217 @@
+{
+    "subjects": {
+      "M3 DMGT": {
+        "fullName": "M3 Discrete Mathematics and Graph Theory",
+        "type": "lecture"
+      },
+      "DLCO": {
+        "fullName": "Digital Logic and Computer Organization",
+        "type": "lecture"
+      },
+      "Java": {
+        "fullName": "Java Programming",
+        "type": "lecture"
+      },
+      "ADS": {
+        "fullName": "Algorithms and Data Structures",
+        "type": "lecture"
+      },
+      "APT": {
+        "fullName": "Aptitude",
+        "type": "lecture"
+      },
+      "UHV": {
+        "fullName": "Universal Human Values",
+        "type": "lecture"
+      },
+      "ES": {
+        "fullName": "Environmental Science",
+        "type": "lecture"
+      },
+      "Python": {
+        "fullName": "Python Programming",
+        "type": "lecture"
+      },
+      "Soft Skills": {
+        "fullName": "Soft Skills",
+        "type": "lecture"
+      },
+      "ADS LAB": {
+        "fullName": "Algorithms and Data Structures Lab",
+        "type": "lab"
+      },
+      "Java Lab": {
+        "fullName": "Java Programming Lab",
+        "type": "lab"
+      },
+      "Python Lab": {
+        "fullName": "Python Programming Lab",
+        "type": "lab"
+      }
+    },
+    "regularSchedule": {
+      "Monday": [
+        {"subject": "M3 DMGT", "startTime": "09:00", "endTime": "10:00"},
+        {"subject": "DLCO", "startTime": "10:00", "endTime": "11:00"},
+        {"subject": "Java", "startTime": "11:00", "endTime": "12:00"},
+        {"subject": "ADS", "startTime": "13:30", "endTime": "14:20"},
+        {"subject": "APT", "startTime": "14:20", "endTime": "15:10"},
+        {"subject": "UHV", "startTime": "15:10", "endTime": "16:00"}
+      ],
+      "Tuesday": [
+        {"subject": "DLCO", "startTime": "09:00", "endTime": "10:00"},
+        {"subject": "Java", "startTime": "10:00", "endTime": "11:00"},
+        {"subject": "Python", "startTime": "11:00", "endTime": "12:00"}
+      ],
+      "Wednesday": [
+        {"subject": "DLCO", "startTime": "09:00", "endTime": "10:00"},
+        {"subject": "UHV", "startTime": "10:00", "endTime": "11:00"},
+        {"subject": "ADS", "startTime": "11:00", "endTime": "12:00"},
+        {"subject": "ES", "startTime": "12:30", "endTime": "13:30"},
+        {"subject": "M3, DMGT", "startTime": "13:30", "endTime": "14:20"},
+        {"subject": "UHV", "startTime": "14:20", "endTime": "15:10"},
+        {"subject": "Java", "startTime": "15:10", "endTime": "16:00"}
+      ],
+      "Thursday": [
+        {"subject": "DLCO", "startTime": "09:00", "endTime": "10:00"},
+        {"subject": "Java", "startTime": "10:00", "endTime": "11:00"},
+        {"subject": "Python", "startTime": "11:00", "endTime": "12:00"}
+      ],
+      "Friday": [
+        {"subject": "Java", "startTime": "09:00", "endTime": "10:00"},
+        {"subject": "ADS", "startTime": "10:00", "endTime": "11:00"},
+        {"subject": "DLCO", "startTime": "11:00", "endTime": "12:00"},
+        {"subject": "UHV", "startTime": "12:30", "endTime": "14:20"},
+        {"subject": "ES", "startTime": "14:20", "endTime": "15:10"},
+        {"subject": "M3, DMGT", "startTime": "15:10", "endTime": "16:00"}
+      ],
+      "Saturday": [
+        {"subject": "M3, DMGT", "startTime": "09:00", "endTime": "10:00"},
+        {"subject": "DLCO", "startTime": "10:00", "endTime": "11:00"},
+        {"subject": "ADS", "startTime": "11:00", "endTime": "12:00"},
+        {"subject": "Java", "startTime": "12:30", "endTime": "13:30"}
+      ]
+    },
+    "labSchedule": {
+      "Tuesday": [
+        {"subject": "ADS LAB", "startTime": "09:00", "endTime": "12:00"}
+      ],
+      "Thursday": [
+        {"subject": "Java Lab", "startTime": "09:00", "endTime": "12:00"}
+      ],
+      "Saturday": [
+        {"subject": "Python Lab", "startTime": "13:30", "endTime": "16:00"}
+      ]
+    },
+    "specialClasses": [
+      {
+        "day": "Wednesday",
+        "subject": "M3 DMGT",
+        "startTime": "13:30",
+        "endTime": "14:20"
+      },
+      {
+        "day": "Thursday",
+        "subject": "Soft Skills",
+        "startTime": "12:30",
+        "endTime": "13:30"
+      }
+    ],
+    "breaks": [
+      {
+        "name": "Lunch Break",
+        "startTime": "12:00",
+        "endTime": "12:30"
+      }
+    ],
+    "examinationSchedule": {
+      "II B.Tech I Semester": [
+        {
+          "description": "Commencement of Class Work",
+          "from": "01-07-2024",
+          "to": "01-07-2024",
+          "weeks": "-"
+        },
+        {
+          "description": "I Unit of Instructions",
+          "from": "01-07-2024",
+          "to": "24-08-2024",
+          "weeks": "8W"
+        },
+        {
+          "description": "I Mid Examinations",
+          "from": "26-08-2024",
+          "to": "31-08-2024",
+          "weeks": "1W"
+        },
+        {
+          "description": "II Unit of Instructions",
+          "from": "02-09-2024",
+          "to": "26-10-2024",
+          "weeks": "8W"
+        },
+        {
+          "description": "II Mid Examinations",
+          "from": "28-10-2024",
+          "to": "02-11-2024",
+          "weeks": "1W"
+        },
+        {
+          "description": "Preparation & Practicals",
+          "from": "04-11-2024",
+          "to": "09-11-2024",
+          "weeks": "1W"
+        },
+        {
+          "description": "End Examinations",
+          "from": "11-11-2024",
+          "to": "23-11-2024",
+          "weeks": "2W"
+        }
+      ],
+      "II B.Tech II Semester": [
+        {
+          "description": "Commencement of Class Work",
+          "from": "25-11-2024",
+          "to": "25-11-2024",
+          "weeks": "-"
+        },
+        {
+          "description": "I Unit of Instructions",
+          "from": "25-11-2024",
+          "to": "18-01-2025",
+          "weeks": "8W"
+        },
+        {
+          "description": "I Mid Examinations",
+          "from": "20-01-2025",
+          "to": "25-01-2025",
+          "weeks": "1W"
+        },
+        {
+          "description": "II Unit of Instructions",
+          "from": "27-01-2025",
+          "to": "22-03-2025",
+          "weeks": "8W"
+        },
+        {
+          "description": "II Mid Examinations",
+          "from": "24-03-2025",
+          "to": "29-03-2025",
+          "weeks": "1W"
+        },
+        {
+          "description": "Preparation & Practicals",
+          "from": "31-03-2025",
+          "to": "05-04-2025",
+          "weeks": "1W"
+        },
+        {
+          "description": "End Examinations",
+          "from": "07-04-2025",
+          "to": "19-04-2025",
+          "weeks": "2W"
+        }
+      ]
+    }
+  }
