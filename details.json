@@ -1,0 +1,81 @@
+{
+  "Year 2": {
+    "SEM 1": {
+      "Subject 1": {
+        "Faculty Name": "P. Madhu Babu",
+        "Phone No.": "90326 90321"
+      },
+      "Subject 2": {
+        "Faculty Name": "G. Venkata Kumar",
+        "Phone No.": "96762 42565"
+      },
+      "Subject 3": {
+        "Faculty Name": "Faculty 3",
+        "Phone No.": "90326 90321"
+      },
+      "Subject 4": {
+        "Faculty Name": "Faculty 4",
+        "Phone No.": "90326 90321"
+      },
+      "Subject 5": {
+        "Faculty Name": "Faculty 5",
+        "Phone No.": "90326 90321"
+      },
+      "Subject 6": {
+        "Faculty Name": "Faculty 6",
+        "Phone No.": "90326 90321"
+      },
+      "Subject 7": {
+        "Faculty Name": "Faculty 7",
+        "Phone No.": "90326 90321"
+      },
+      "Subject 8": {
+        "Faculty Name": "Faculty 8",
+        "Phone No.": "90326 90321"
+      },
+      "Subject 9": {
+        "Faculty Name": "Faculty 9",
+        "Phone No.": "90326 90321"
+      }
+    }
+  },
+  "Contact Details": {
+    "Name": "Yeswanth Madasu",
+    "Email": "sinchan123v@gmail.com",
+    "Phone": "90326 90321",
+    "Position": "2nd Year Student",
+    "Department": "CSE",
+    "Institution": "Pragati Engineering College"
+  },
+  "Resources Provided": {
+    "Provider 1": {
+      "Name": "G.Venkata Kumar",
+      "Position": "2nd Year Student",
+      "Department": "CSE",
+      "Institution": "Pragati Engineering College"
+    },
+    " Notes Provider": {
+      "Name": "B Kavya Sri",
+      "Position": "2nd Year Student",
+      "Department": "CSE",
+      "Institution": "Pragati Engineering College"
+    },
+    "Provider 2": {
+      "Name": "P Surya Sri",
+      "Position": "2nd Year Student",
+      "Department": "CSE",
+      "Institution": "Pragati Engineering College"
+    },
+    "Provider 3": {
+      "Name": "Guna Naimisha",
+      "Position": "2nd Year Student",
+      "Department": "CSE",
+      "Institution": "Pragati Engineering College"
+    }
+  },
+  "Request Resources": {
+    "Contact": {
+      "Link": "https://wa.me/919676242565"
+    }
+  }
+}
