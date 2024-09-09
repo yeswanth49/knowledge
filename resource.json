@@ -1,131 +1,75 @@
 {
-  "Year 2": {
-    "SEM 1": {
-      "Notes": {
-        "Unit 1": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
+    "Year 2": {
+      "SEM 1": {
+        "Notes": {
+          "Unit 1": {
+            "DMGT": "https://drive.google.com/file/d/1JT2ciWwgF2c-BO1fabbyByeL_l3PXd_4/view?usp=sharing",
+            "ADS": "https://drive.google.com/file/d/1F1Xzi8SkGvjddH6mJP8AiZrn9js_yUy_/view?usp=sharing",
+            "Java": "https://drive.google.com/file/d/15ghqP5Ws-qx3Url1uF_ChdfQk5FNidyl/view?usp=sharing",
+            "DLCO": "https://drive.google.com/file/d/1BhDoSn1ovPdiN4VT0iHoSnawpHUJiVaU/view?usp=sharing",
+            "UHV": "https://drive.google.com/file/d/12Pc54j_bBcYH6K-GAqdYuGNHWMrsTxgI/view?usp=sharing"
+          },
+          "Unit 2": {
+            "DMGT": "https://drive.google.com/file/d/1DYCjZ31IYQLlbUW9HSBUOuL_FxcJU0Vs/view?usp=sharing",
+            "ADS": "https://drive.google.com/file/d/1F2xxusTYfUGjBtEXRXujyjzVQRnZYY23/view?usp=drivesdk",
+            "Java": "https://drive.google.com/file/d/1FEkBMdydpvQ-MuKMcVplZLagpze-j_Yc/view?usp=sharing",
+            "DLCO": "https://drive.google.com/file/d/1FJIEvxeY_gdgoj16MbRtL7sMkMwdWx1A/view?usp=sharing",
+            "UHV": "https://drive.google.com/file/d/1EP4j8XBprgcPkEGVvUbe5LTjtqGFT8YV/view?usp=sharing"
+          }
         },
-        "Unit 2": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
+        "Assignments": {
+          "Assignment 1": {
+            "DMGT": "https://drive.google.com/file/d/11m5oM2Ukwzf7m8Z5sQV6Fass89vHlaPy/view",
+            "ADS": "https://drive.google.com/file/d/11_6UneR9rA8n3iWK5TtUEkrJbh75u1I-/view?usp=sharing",
+            "Java": "https://drive.google.com/file/d/16Ul7m0grIGZTVjj7KGq7-_DK7KCu7sTB/view?usp=sharing",
+            "DLCO": "https://drive.google.com/file/d/11kC6-Djg3hAjdXzJqI2Py7uwFP6n6ylK/view?usp=sharing",
+            "UHV": "https://drive.google.com/file/d/127ddB5e2EJwZvqEGcJDAaLoQcKAsQIvw/view?usp=sharing"
+          },
+          "Assignment 2": {
+            "DMGT": "https://drive.google.com/file/d/1Lk6yASPwzzbpUxg49r7bfoZ-a7JUGEQc/view?usp=sharing",
+            "ADS": "https://drive.google.com/file/d/1Do8A7KR3lUL87ce-iaGYYqxDCqVOa6am/view?usp=sharing",
+            "Java": "https://drive.google.com/file/d/1BJVD32ofYTTXuMczZ5oDP3Guyq-FJVR2/view?usp=sharing",
+            "DLCO": "https://drive.google.com/file/d/1Vfabmlb8kTxeAFNG1wcbPTZma5VHlN3O/view?usp=drivesdk",
+            "UHV": "https://drive.google.com/file/d/1Lmfn5LNWakkTD0YQGHpJB-eXz9987Cld/view?usp=sharing"
+          }
         },
-        "Unit 3": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
+        "Class Tests": {
+          "Test 1": {
+            "DMGT": "https://drive.google.com/file/d/14ToWdsMKc-_-YnRqdi2JFggF9D0Q2uGW/view",
+            "ADS": "",
+            "Java": "",
+            "DLCO": "",
+            "UHV": ""   
+          }
         },
-        "Unit 4": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
-        },
-        "Unit 5": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
+        "Records, Manuals": {
+          "Week 1,Week2,Week3,Week4": {
+            "Java": "https://drive.google.com/file/d/13CLlJIH4w17YX-4RM8RinmF_snnGqimx/view?usp=sharing",
+            "Python": "https://drive.google.com/file/d/13A9Zai6ClRzWgYwLN-dwWdqxLEvzmo33/view?usp=sharing",
+            "ADS": "https://drive.google.com/file/d/13GVOlehybqTRRdE7lxyQ7JAFCAvVaM5V/view?usp=sharing"
+          },
+          "Week 5": {
+            "Java": "https://drive.google.com/file/d/1BANOSeqArbEGj6aYKgtTepc5cpwyb78-/view?usp=sharing",
+            "Python": "https://drive.google.com/file/d/1B1Xo1SYGyHmj60lRECPvDTKRuqc6BK-u/view?usp=sharing",
+            "ADS": "https://drive.google.com/file/d/1B9BnRPGU68yxFFaE7QHFv-GjlOgL9dE4/view"
         }
-      },
-      "Assignments": {
-        "Assignment 1": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
         },
-        "Assignment 2": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
-        }
-      },
-      "Class Tests": {
-        "Test 1": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
-        },
-        "Test 2": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
-        },
-        "Test 3": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
-        }
-      },
-      "Records, Manuals": {
-        "Week 1": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": ""
-        },
-        "Week 2": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": ""
-        }
-      },
-      "Study Materials": {
-        "Unit 1": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
-        },
-        "Unit 2": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
-        },
-        "Unit 3": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
-        },
-        "Unit 4": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
-        },
-        "Unit 5": {
-          "Subject 1": "",
-          "Subject 2": "",
-          "Subject 3": "",
-          "Subject 4": "",
-          "Subject 5": ""
+        "Study Materials": {
+          "Unit 1": {
+            "DMGT": "",
+            "ADS": "https://drive.google.com/file/d/1LWvsxdonRgk8XwUttSdk76HBAUnkCzvn/view?usp=sharing",
+            "Java": "https://drive.google.com/file/d/1ApqIWuo4pinJ2Jgx7kGFjoen23-D9bCy/view",
+            "DLCO": "",
+            "UHV": "https://drive.google.com/file/d/12Pc54j_bBcYH6K-GAqdYuGNHWMrsTxgI/view?usp=sharing" 
+          },
+          "Unit 2": {
+            "DMGT": "",
+            "ADS": "https://drive.google.com/file/d/1Ld2DVnQHO3Vm9jinaN316eBE9kmfbfpI/view",
+            "Java": "https://drive.google.com/file/d/1Lea94asaJ3xuu0BAbsPG9QafptfF73IS/view?usp=sharing",
+            "DLCO": "",
+            "UHV": "https://drive.google.com/file/d/1EP4j8XBprgcPkEGVvUbe5LTjtqGFT8YV/view"
+          }
         }
       }
     }
-  }
 }
