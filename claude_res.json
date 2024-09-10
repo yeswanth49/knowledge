@@ -1,0 +1,209 @@
+{
+    "Year 1": {
+      "Semester 1": {
+        "Notes": {
+          "Unit 1, Unit 2, Unit 3, Unit 4, Unit 5": {
+            "LA&C": "",
+            "Physics": "",
+            "ICP": "",
+            "EG": "",
+            "BEEE": ""
+          }
+        },
+        "Assignments": {
+          "Assignment 1, Assignment 2, Assignment 3, Assignment 4, Assignment 5": {
+            "LA&C": "",
+            "Physics": "",
+            "ICP": "",
+            "EG": "",
+            "BEEE": ""
+          }
+        },
+        "Class Tests": {
+          "Test 1, Test 2, Test 3, Test 4, Test 5": {
+            "LA&C": "",
+            "Physics": "",
+            "ICP": "",
+            "EG": "",
+            "BEEE": ""
+          }
+        },
+        "Records": {
+          "Week 1, Week 2, Week 3, Week 4, Week 5": {
+            "LA&C": "",
+            "Physics": "",
+            "ICP": "",
+            "EG": "",
+            "BEEE": ""
+          }
+        },
+        "Exams": {
+          "Mid-1": {
+            "LA&C": "https://drive.google.com/file/d/1UQClxGFsJh5j8_YUx-KU_XrfAOWi2CRy/view?usp=sharing",
+            "Physics": "https://drive.google.com/file/d/13zKxCEmzhiivwhIbfdnoxIK9I3WqyE77/view?usp=sharing",
+            "ICP": "https://drive.google.com/file/d/1gTuubrednzSOOjToqgeRcSZBxtQ43Cvz/view?usp=sharing",
+            "EG": "https://drive.google.com/file/d/13V2anDlBLRUc98ou_S20w3SspLameU0o/view?usp=sharing",
+            "BEEE": "https://drive.google.com/file/d/13tdQkbwxZLICDFWgDSxICAkp2EARdVj_/view?usp=sharing"
+          },
+          "Mid-2": {
+            "LA&C": "https://drive.google.com/file/d/1XOiarb4P_Gd1ShvrxQzFVrWrXEGZF4Fy/view?usp=sharing",
+            "Physics": "",
+            "ICP": "https://drive.google.com/file/d/1WtNgyTaiRo6eKiLMc3u9xDEgGsqvUWZU/view?usp=sharing",
+            "EG": "https://drive.google.com/file/d/13Wav1A4-9xiRY15FXZ-zRJlLLudrg9Zk/view?usp=sharing",
+            "BEEE": ""
+          },
+          "Semester": {
+            "LA&C": "https://drive.google.com/file/d/1smN6zp2hpiUdRDwgthXijx58STJACauU/view?usp=sharing",
+            "Physics": "https://drive.google.com/file/d/13pqoFbB84BSDe4ON8dYZ1ihFDTGjp1dz/view?usp=sharing",
+            "ICP": "https://drive.google.com/file/d/1ZxNkfShkb651hLu2GDwpliW53ZrMv0Cu/view?usp=sharing",
+            "EG": "https://drive.google.com/file/d/13hfEUwzFYgPI5E_sZaEsHfUO3p1b-1zw/view?usp=sharing",
+            "BEEE": "https://drive.google.com/file/d/13flD3c2QNNTu5Dcwf6mWUpov8aqXyXFJ/view?usp=sharing"
+          }
+        }
+      },
+      "Semester 2": {
+        "Notes": {
+          "Unit 1, Unit 2, Unit 3, Unit 4, Unit 5": {
+            "DEVC": "",
+            "Chemistry": "",
+            "CE": "",
+            "BCME": "",
+            "DS": ""
+          }
+        },
+        "Assignments": {
+          "Assignment 1, Assignment 2, Assignment 3,  Assignment 4, Assignment 5": {
+            "DEVC": "",
+            "Chemistry": "",
+            "CE": "",
+            "BCME": "",
+            "DS": ""
+          }
+        },
+        "Class Tests": {
+          "Test 1, Test 2, Test 3, Test 4, Test 5": {
+            "DEVC": "",
+            "Chemistry": "",
+            "CE": "",
+            "BCME": "",
+            "DS": ""
+          }
+        },
+        "Records": {
+          "Week 1, Week 2, Week 3, Week 4, Week 5": {
+            "DEVC": "",
+            "Chemistry": "",
+            "CE": "",
+            "BCME": "",
+            "DS": ""
+          }
+        },
+        "Exams": {
+          "Mid-1": {
+            "DEVC": "https://drive.google.com/file/d/1wDIE5-0Roxb9siQLmItCHcfJcvmvDT9y/view?usp=sharing",
+            "Chemistry": "https://drive.google.com/file/d/1B8eGNdmFwSyL3qHFLO8BhZDdxi64pxlI/view?usp=sharing",
+            "CE": "https://drive.google.com/file/d/1DnkGoLb6a49NsC1owujUa8ADEQx7DFV9/view?usp=sharing",
+            "BCME": "https://drive.google.com/file/d/1RVg8TRdv_ryIRsTMg7qB089yjj3vtFz6/view?usp=sharing",
+            "DS": "https://drive.google.com/file/d/1FeIsK5PyQmafgCu1wg12-opg9NW7zwe2/view?usp=sharing"
+          },
+          "Mid-2": {
+            "DEVC": "https://drive.google.com/file/d/13hgJcbn9XPI_aVYCSbHRpcppCuug1rXg/view?usp=sharing",
+            "Chemistry": "https://drive.google.com/file/d/11qkU3B6EF8X4-jQ7ySVNrHXwTyATtoI_/view?usp=sharing",
+            "CE": "https://drive.google.com/file/d/141eVMuvU1Nm2txzliH9rT98tDPRjs2vp/view?usp=sharing",
+            "BCME": "https://drive.google.com/file/d/1V0i8EQedxBogMLIRdA9leEsMZBcgbNE8/view?usp=sharing",
+            "DS": "https://drive.google.com/file/d/13vSCJ32wI6nwA_wcHQMZMMVOGfpTT48p/view?usp=sharing"
+          },
+          "Semester": {
+            "DEVC": "https://drive.google.com/file/d/1ZuoW6QBRHbtO5hFWpW1xMG2QdCs-XJO3/view?usp=sharing",
+            "Chemistry": "https://drive.google.com/file/d/14Xf3BhlCWvB1vayqPWD5aul3tQYKRhKw/view?usp=sharing",
+            "CE": "https://drive.google.com/file/d/1N9KojCq8YzebZg9FEhnNU2BmaftRJDgv/view?usp=sharing",
+            "BCME": "https://drive.google.com/file/d/1REPtkzY1BsibXQyE8m_73R-IB5S3PtmC/view?usp=sharing",
+            "DS": "https://drive.google.com/file/d/1R_lLX_MUTfRlbq-9rruk2kxLCv-5cHW5/view?usp=sharing"
+          }
+        }
+      }
+    },
+    "Year 2": {
+      "Semester 1": {
+        "Notes": {
+          "Unit 1": {
+            "DMGT": "https://drive.google.com/file/d/1JT2ciWwgF2c-BO1fabbyByeL_l3PXd_4/view?usp=sharing",
+            "ADS": "https://drive.google.com/file/d/1F1Xzi8SkGvjddH6mJP8AiZrn9js_yUy_/view?usp=sharing",
+            "Java": "https://drive.google.com/file/d/15ghqP5Ws-qx3Url1uF_ChdfQk5FNidyl/view?usp=sharing",
+            "DLCO": "https://drive.google.com/file/d/1BhDoSn1ovPdiN4VT0iHoSnawpHUJiVaU/view?usp=sharing",
+            "UHV": "https://drive.google.com/file/d/12Pc54j_bBcYH6K-GAqdYuGNHWMrsTxgI/view?usp=sharing"
+          },
+          "Unit 2": {
+            "DMGT": "https://drive.google.com/file/d/1DYCjZ31IYQLlbUW9HSBUOuL_FxcJU0Vs/view?usp=sharing",
+            "ADS": "https://drive.google.com/file/d/1F2xxusTYfUGjBtEXRXujyjzVQRnZYY23/view?usp=drivesdk",
+            "Java": "https://drive.google.com/file/d/1FEkBMdydpvQ-MuKMcVplZLagpze-j_Yc/view?usp=sharing",
+            "DLCO": "https://drive.google.com/file/d/1FJIEvxeY_gdgoj16MbRtL7sMkMwdWx1A/view?usp=sharing",
+            "UHV": "https://drive.google.com/file/d/1EP4j8XBprgcPkEGVvUbe5LTjtqGFT8YV/view?usp=sharing"
+          },
+          "Unit 3, Unit 4, Unit 5": {
+            "DMGT": "",
+            "ADS": "",
+            "Java": "",
+            "DLCO": "",
+            "UHV": ""
+          }
+        },
+        "Assignments": {
+          "Assignment 1": {
+            "DMGT": "https://drive.google.com/file/d/11m5oM2Ukwzf7m8Z5sQV6Fass89vHlaPy/view",
+            "ADS": "https://drive.google.com/file/d/11_6UneR9rA8n3iWK5TtUEkrJbh75u1I-/view?usp=sharing",
+            "Java": "https://drive.google.com/file/d/16Ul7m0grIGZTVjj7KGq7-_DK7KCu7sTB/view?usp=sharing",
+            "DLCO": "https://drive.google.com/file/d/11kC6-Djg3hAjdXzJqI2Py7uwFP6n6ylK/view?usp=sharing",
+            "UHV": "https://drive.google.com/file/d/127ddB5e2EJwZvqEGcJDAaLoQcKAsQIvw/view?usp=sharing"
+          },
+          "Assignment 2": {
+            "DMGT": "https://drive.google.com/file/d/1Lk6yASPwzzbpUxg49r7bfoZ-a7JUGEQc/view?usp=sharing",
+            "ADS": "https://drive.google.com/file/d/1Do8A7KR3lUL87ce-iaGYYqxDCqVOa6am/view?usp=sharing",
+            "Java": "https://drive.google.com/file/d/1BJVD32ofYTTXuMczZ5oDP3Guyq-FJVR2/view?usp=sharing",
+            "DLCO": "https://drive.google.com/file/d/1Vfabmlb8kTxeAFNG1wcbPTZma5VHlN3O/view?usp=drivesdk",
+            "UHV": "https://drive.google.com/file/d/1Lmfn5LNWakkTD0YQGHpJB-eXz9987Cld/view?usp=sharing"
+          },
+          "Assignment 3, Assignment 4, Assignment 5": {
+            "DMGT": "",
+            "ADS": "",
+            "Java": "",
+            "DLCO": "",
+            "UHV": ""
+          }
+        },
+        "Class Tests": {
+          "Test 1": {
+            "DMGT": "https://drive.google.com/file/d/14ToWdsMKc-_-YnRqdi2JFggF9D0Q2uGW/view",
+            "ADS": "",
+            "Java": "",
+            "DLCO": "",
+            "UHV": ""   
+          },
+          "Test 2, Test 3, Test 4, Test 5": {
+            "DMGT": "",
+            "ADS": "",
+            "Java": "",
+            "DLCO": "",
+            "UHV": ""   
+          }
+        },
+        "Records": {
+          "Week 1,Week2,Week3,Week4": {
+            "Java": "https://drive.google.com/file/d/13CLlJIH4w17YX-4RM8RinmF_snnGqimx/view?usp=sharing",
+            "Python": "https://drive.google.com/file/d/13A9Zai6ClRzWgYwLN-dwWdqxLEvzmo33/view?usp=sharing",
+            "ADS": "https://drive.google.com/file/d/13GVOlehybqTRRdE7lxyQ7JAFCAvVaM5V/view?usp=sharing"
+          },
+          "Week 5": {
+            "Java": "https://drive.google.com/file/d/1BANOSeqArbEGj6aYKgtTepc5cpwyb78-/view?usp=sharing",
+            "Python": "https://drive.google.com/file/d/1B1Xo1SYGyHmj60lRECPvDTKRuqc6BK-u/view?usp=sharing",
+            "ADS": "https://drive.google.com/file/d/1B9BnRPGU68yxFFaE7QHFv-GjlOgL9dE4/view"
+          },
+          "Week 6, Week 7": {
+            "Java": "",
+            "Python": "",
+            "ADS": ""
+          }
+        }
+      }
+    }
+}

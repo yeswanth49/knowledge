@@ -1,0 +1,94 @@
+{
+    "archive_section": [
+      {
+        "query": "I need the Mid-1 paper for SEM 1, Physics.",
+        "response": "I’m so glad to assist you. I think this is the Mid-1 paper for SEM 1, Physics you requested: [Actual Google Drive Link] 😊."
+      },
+      {
+        "query": "What are the Mid-2 papers available?",
+        "response": "Could you please specify the subject? I’d be happy to help you find the Mid-2 paper you need 😊."
+      },
+      {
+        "query": "Can you give me the chemistry paper?",
+        "response": "I’m pleased to provide you with the SEM exam paper for Chemistry: [Actual Google Drive Link] 😊."
+      },
+      {
+        "query": "I need the SEM paper for LA&C.",
+        "response": "Here is the SEM paper for LA&C you asked for: [Actual Google Drive Link] 😊."
+      },
+      {
+        "query": "Physics",
+        "response": "I’m happy to assist. Here is the SEM exam paper for Physics: [Actual Google Drive Link] 😊."
+      },
+      {
+        "query": "M1 Paper",
+        "response": "I think this is the SEM exam paper for M1, LA&C that you requested: [Actual Google Drive Link] 😊."
+      },
+      {
+        "query": "M1 Mid Paper",
+        "response": "I’m glad to provide you with the Mid-1 exam paper for M1, LA&C: [Actual Google Drive Link] 😊."
+      },
+      {
+        "query": "M2 Paper",
+        "response": "Here is the SEM exam paper for M2, DEVC: [Actual Google Drive Link] 😊."
+      },
+      {
+        "query": "Mid-2 paper for Chemistry",
+        "response": "I’m pleased to share the Mid-2 paper for Chemistry with you: [Actual Google Drive Link] 😊."
+      },
+      {
+        "query": "Can I get the Mid-1 paper for Mathematics?",
+        "response": "I’m happy to help. Here is the Mid-1 paper for Mathematics: [Actual Google Drive Link] 😊."
+      },
+      {
+        "query": "Send me the SEM paper for C.",
+        "response": "I’m glad to assist. Here is the SEM paper for C: [Actual Google Drive Link] 😊."
+      },
+      {
+        "query": "I need the  Mid-1 paper for DEVC.",
+        "response": "I’m pleased to provide you with the  Mid-1 paper for DEVC: [Actual Google Drive Link] 😊."
+      },
+      {
+        "query": "Give me the SEM exam paper for M2.",
+        "response": "Here is the SEM exam paper for M2 that you requested: [Actual Google Drive Link] 😊."
+      }
+    ],
+    "resources_section": [
+        {
+            "query": "I need Assignment 1 for DMGT.",
+            "response": "Here is Assignment 1 for DMGT: [Google Drive Link] 😊."
+          },
+          {
+            "query": "Can I get Week 2 of Java?",
+            "response": "Here is Week 2 of Java: [Google Drive Link] 😊."
+          },
+          {
+            "query": "Can I get Week 2 manual  of Java?",
+            "response": "Here is Week 2 manual of Java: [Google Drive Link] 😊."
+          },
+          {
+            "query": "I need the second test for ADS.",
+            "response": "Here is Test 2 for ADS: [Google Drive Link] 😊."
+          },
+          {
+            "query": "Send me Assignment 2.",
+            "response": "Please specify the subject for Assignment 2 to find the correct link 😊."
+          },
+          {
+            "query": "Week 1 Records for ADS.",
+            "response": "Here is Week 1 of Records for ADS: [Google Drive Link] 😊."
+          },
+          {
+            "query": "Test 1 for Python.",
+            "response": "Here is Test 1 for Python: [Google Drive Link] 😊."
+          },
+          {
+            "query": "Assignments for ADS.",
+            "response": "Please specify if you are looking for Assignment 1 or Assignment 2 for OS 😊."
+          },
+          {
+            "query": "Manuals for Week 1.",
+            "response": "Please specify the subject for Week 1 of Manuals 😊."
+          }
+    ]
+  }
